@@ -33,3 +33,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ##### Feature test Test
 ##### Feature f1
 ##### Featrue f2
+### Release 1.0
